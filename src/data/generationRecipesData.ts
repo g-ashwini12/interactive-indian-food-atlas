@@ -1223,6 +1223,109 @@ export const MODAK_GENERATIONS: GenerationWaypoint[] = [
   }
 ];
 
+export const MAKKI_ROTI_SARSON_SAAG_GENERATIONS: GenerationWaypoint[] = [
+  {
+    generationNumber: 1,
+    eraTitle: "The 1800s",
+    yearRange: "1800s",
+    centuryLabel: "Epoch I",
+    headline: "The Winter Harvest Fuel",
+    shortDescription: "In the 19th century, Makki di Roti and Sarson ka Saag was a rustic, cold-weather staple born entirely out of survival and the seasonal agricultural cycle of rural Punjab. During the brutal winter months, farmers needed high-calorie, warming food to sustain heavy manual labor. The greens—mustard leaves, bathua, and spinach—were plucked fresh from the fields and slow-cooked for hours in heavy clay pots (haandi) over open wood or cow-dung fires, filling the village air with a distinct earthy smoke. Without any mechanical tools, the cooked greens were laboriously hand-churned and mashed using a heavy wooden whisk (madhani) until creamy. The maize flour was coarsely stone-ground at local watermills (gharats) and patted by hand into thick flatbreads, as maize lacks gluten and cannot be rolled. The meal was cooked on an outdoor mud stove (chulha), heavily enriched with fresh, hand-churned white butter, and eaten fresh in the fields to beat the winter chill.",
+    image: "/images/dishes/makki-di-roti-sarson-saag-stage-1.webp",
+    generationRecipe: {
+      recipeName: "Winter Harvest Hearth Saag & Roti",
+      historicalCookware: "Heavy clay pot (haandi), wooden whisk (madhani) & outdoor mud chulha",
+      heatSource: "Open wood or cow-dung fires",
+      ingredientsList: [
+        "Desi Makki Atta",
+        "Khet ki Sarson",
+        "Bathua",
+        "Safed Makkhan",
+        "Hari Mirch"
+      ],
+      preparationMethod: "Slow-simmered greens in clay pots over open embers, hand-churned with wooden madhani until creamy, hand-patted coarse watermill maize rotis on mud chulha.",
+      contemporaryDifference: "Rustic winter survival food cooked in fields without mechanical mills or blenders, featuring coarse hand-patted flatbreads."
+    },
+    technologicalLeap: "Stone watermill grain milling (gharats) and slow clay-pot open-hearth simmering with wooden churning tools.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 2,
+    eraTitle: "The Mid-1900s",
+    yearRange: "Mid-1900s",
+    centuryLabel: "Epoch II",
+    headline: "The Domestic Punjabi Identity",
+    shortDescription: "By the mid-20th century, this rural combination moved firmly into the domestic kitchens of urbanized Punjab, becoming a proud cultural symbol of Punjabi hospitality and festival cooking. The introduction of mechanized diesel flour mills made finely ground maize flour readily available, which slightly eased the process of binding the difficult dough. Kerosene stoves and early LPG gas burners replaced the outdoor mud chulhas, bringing the preparation indoors into brass and aluminum cookware. While the saag was still slow-cooked, the hand-churning process became faster with sturdier metal madhanis. The dish became the ultimate centerpiece for winter gatherings and festivals like Lohri, where homemakers vied to create the smoothest saag and the thinnest, un-broken rotis. It was traditionally served on large brass plates (thalis) with blocks of commercial yellow jaggery on the side.",
+    image: "/images/dishes/makki-di-roti-sarson-saag-stage-2.webp",
+    generationRecipe: {
+      recipeName: "Mid-Century Domestic Hospitality Feast",
+      historicalCookware: "Heavy brass & aluminum cookware, metal madhani & indoor iron tawa",
+      heatSource: "Kerosene stoves and early domestic LPG gas burners",
+      ingredientsList: [
+        "Girni Makki Atta",
+        "Market Sarson Leaves",
+        "Palak",
+        "Commercial White Butter",
+        "Pila Gul"
+      ],
+      preparationMethod: "Indoor simmering in brass vessels, metal-madhani whisking, thinner flatbreads prepared from mechanized mill flour, served with yellow jaggery on brass thalis.",
+      contemporaryDifference: "Transition from outdoor farm survival food to an indoor festival centerpiece for Lohri and family hospitality."
+    },
+    technologicalLeap: "Diesel mill flour grinding and domestic kerosene/gas stoves replacing outdoor mud chulhas.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 3,
+    eraTitle: "The Present Day",
+    yearRange: "2020s–2026",
+    centuryLabel: "Epoch III",
+    headline: "The Global Gourmet Phenomenon",
+    shortDescription: "Today, Makki di Roti and Sarson ka Saag has transcended its rustic roots to become a highly celebrated global gourmet item found in elite Indian restaurants worldwide. The traditional hours-long mashing process has been replaced by electric pressure cookers and high-speed hand blenders that emulsify the greens into a perfectly smooth puree in seconds. Modern cooking techniques often use non-stick griddles and parchment paper techniques to easily shape and flip the notoriously fragile maize flatbreads. Health-conscious updates include mixing the maize flour with a bit of whole wheat or millet flour for easier rolling, and substituting traditional heavy fats with olive oil or low-fat vegan butter. For the global diaspora, the present era offers ultimate convenience: pre-cooked Sarson ka Saag is widely sold in ready-to-eat cans or vacuum-sealed pouches, allowing people to enjoy this complex, time-consuming winter tradition instantly anywhere in the world.",
+    image: "/images/dishes/makki-di-roti-sarson-saag-stage-3.webp",
+    generationRecipe: {
+      recipeName: "Modern Global Gourmet Presentation",
+      historicalCookware: "Electric pressure cooker, immersion hand blender & non-stick griddle with parchment",
+      heatSource: "Induction cooktop and precision flame burners",
+      ingredientsList: [
+        "Organic Yellow Cornmeal",
+        "Packaged Mustard Greens",
+        "Canned Spinach Puree",
+        "Branded Yellow Butter",
+        "Organic Garlic Paste"
+      ],
+      preparationMethod: "High-pressure electric steaming, immersion blending to silky puree, parchment-assisted non-stick griddling, vacuum-packaging for diaspora export.",
+      contemporaryDifference: "Hours of manual wood-fire churning replaced by seconds of electric blending, parchment-paper griddling, and global gourmet export."
+    },
+    technologicalLeap: "High-speed electric immersion blending, electric pressure cookers, and vacuum retort packaging.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 4,
+    eraTitle: "Serving & Plating",
+    yearRange: "Present Day",
+    centuryLabel: "Epoch IV",
+    headline: "The Soul of Punjabi Winter Cuisine",
+    shortDescription: "Served piping hot, crowned with an overflowing dollop of churned white butter, golden jaggery cubes, and fresh green chillies.",
+    image: "/images/dishes/makki-di-roti-sarson-saag-stage-4.webp",
+    generationRecipe: {
+      recipeName: "Grand Punjabi Dhaba & Home Service",
+      historicalCookware: "Kansa or stainless steel thali",
+      heatSource: "Immediate service",
+      ingredientsList: [
+        "Organic Yellow Cornmeal",
+        "Packaged Mustard Greens",
+        "Canned Spinach Puree",
+        "Branded Yellow Butter",
+        "Organic Garlic Paste"
+      ],
+      preparationMethod: "Served steaming hot with fresh churned white butter melting over dark velvety saag, paired with crisp hot makki rotis.",
+      contemporaryDifference: "Living winter heritage celebrated worldwide."
+    },
+    technologicalLeap: "Global cold-weather cultural icon.",
+    documentedCitation: ""
+  }
+];
+
 function legacyGenerationsForDish(dishId: string, dish: Dish): GenerationWaypoint[] {
   switch (dishId) {
     case "vada-pav":
@@ -1231,6 +1334,8 @@ function legacyGenerationsForDish(dishId: string, dish: Dish): GenerationWaypoin
       return PURAN_POLI_GENERATIONS;
     case "ukadiche-modak":
       return MODAK_GENERATIONS;
+    case "makki-di-roti-sarson-saag":
+      return MAKKI_ROTI_SARSON_SAAG_GENERATIONS;
     case "masala-dosa":
       return DOSA_GENERATIONS;
     case "hyderabadi-biryani":
@@ -1282,9 +1387,9 @@ export function getGenerationsForDish(dishId: string): GenerationWaypoint[] {
         historicalCookware: source.generationRecipe.historicalCookware,
         heatSource: source.generationRecipe.heatSource,
         ingredientsList:
-          stage.key === "ingredients" && dish.ingredients.length
-            ? dish.ingredients
-            : source.generationRecipe.ingredientsList,
+          source.generationRecipe.ingredientsList && source.generationRecipe.ingredientsList.length
+            ? source.generationRecipe.ingredientsList
+            : dish.ingredients,
         preparationMethod:
           stage.key === "method"
             ? `${dish.keyTechnique}. ${stage.details[0]}`

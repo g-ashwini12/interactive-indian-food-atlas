@@ -724,7 +724,7 @@ const BASE_FOOD_DATA: Record<string, StateFood> = {
         state: "Punjab",
         category: "grain-bread",
         description: "Stone-ground yellow cornmeal flatbreads patted by hand, paired with winter mustard and bathua greens slow-churned for hours with corn flour, finished with a melting mountain of fresh white butter.",
-        ingredients: ["Mustard greens (Sarson)", "Bathua leaves", "Maize flour (Makki atta)", "White butter (Makhan)", "Ginger-garlic", "Jaggery"],
+        ingredients: ["Desi Makki Atta", "Khet ki Sarson", "Bathua", "Safed Makkhan", "Hari Mirch"],
         tasteProfile: "Earthy, Slightly Bitter & Rich",
         era: "Vedic Punjab & 16th Century Agrarian Hearth",
         keyTechnique: "Clay Pot Churning (Ghotna) & Hand-Patted Tawa Griddling",
