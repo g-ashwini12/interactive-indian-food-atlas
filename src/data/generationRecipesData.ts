@@ -986,8 +986,251 @@ const STAGE_YEAR_RANGE: Record<StageKey, string> = {
 };
 
 /** Legacy six-epoch records for one dish, used only for recipe detail. */
+export const VADA_PAV_GENERATIONS: GenerationWaypoint[] = [
+  {
+    generationNumber: 1,
+    eraTitle: "The 1800s",
+    yearRange: "1800s",
+    centuryLabel: "Epoch I",
+    headline: "The Forbidden Blueprint",
+    shortDescription: "In the 19th century, Vada Pav did not exist because its two core components belonged to entirely different worlds. Potatoes had only recently been popularized by the British, and the Portuguese pav (bread) was largely shunned by mainstream society due to religious taboos surrounding European baking practices and the use of wild palm toddy for yeast fermentation. Had a prototype been forced together in a wood-fired kitchen, it would have tasted drastically different. The bread would have been dense and sour, the potato filling would have been roughly hand-mashed, and the frying would have taken place over smoky wood fires using heavy iron pots filled with cold-pressed groundnut oil. It was a time before the street food culture of Mumbai was born, meaning these ingredients were consumed separately and strictly within private domestic or colonial settings.",
+    image: "/images/dishes/vada-pav-stage-1.webp",
+    generationRecipe: {
+      recipeName: "19th Century Domestic Prototype",
+      historicalCookware: "Smoky heavy iron pots & domestic hearth",
+      heatSource: "Smoky wood fires",
+      ingredientsList: ["Potatoes", "Pav (Bread rolls)", "Gram flour (Besan)", "Garlic", "Green chillies"],
+      preparationMethod: "Roughly hand-mashed potato filling, dense toddy-fermented pav, deep frying in cold-pressed groundnut oil in heavy iron pots over wood fires.",
+      contemporaryDifference: "Potatoes and European pav were separate domestic novelties; pav was socially shunned due to toddy fermentation, and street food culture did not yet exist."
+    },
+    technologicalLeap: "Early domestic adoption of New World potatoes and European baking techniques prior to street commercialization.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 2,
+    eraTitle: "The Mid-1900s",
+    yearRange: "1966",
+    centuryLabel: "Epoch II",
+    headline: "The Birth of an Icon (1966)",
+    shortDescription: "The 1960s changed everything when Ashok Vaidya combined the potato dumpling and the bread roll to create a cheap, rapid meal for Mumbai's booming working class. Stationed outside the Dadar railway station in 1966, Vaidya realized that mill workers rushing to their shifts needed something hot, filling, and completely portable. By splitting a now-socially-accepted commercial yeast pav, smearing it with fiery chutneys, and stuffing it with a fresh batata vada, the legendary street food was officially born. Preparing it in this era relied on portable kerosene stoves and mass-produced vegetable oils. The chutneys—especially the signature dry red garlic powder—were hand-ground daily on stone slabs, and the final product was handed over wrapped in sheets of old, ink-stained vernacular newspaper, instantly becoming the fuel of the city's political and industrial labor movements.",
+    image: "/images/dishes/vada-pav-stage-2.webp",
+    generationRecipe: {
+      recipeName: "Original Dadar Station Batata Vada Pav",
+      historicalCookware: "Street-side deep frying kadai",
+      heatSource: "Portable kerosene stove",
+      ingredientsList: ["Potatoes", "Pav (Bread rolls)", "Gram flour (Besan)", "Garlic", "Green chillies"],
+      preparationMethod: "Fresh batata vada dipped in spiced gram flour batter, deep-fried in vegetable oil, stuffed into a split commercial yeast pav with stone-ground dry garlic and green chilli chutneys, wrapped in vernacular newspaper.",
+      contemporaryDifference: "Invention of the batata vada inside commercial yeast pav pairing; rapid street-side kerosene frying replacing slow home hearths."
+    },
+    technologicalLeap: "Ashok Vaidya's Dadar Station innovation creating portable, affordable nutrition for Mumbai mill workers.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 3,
+    eraTitle: "The Present Day",
+    yearRange: "2020s–2026",
+    centuryLabel: "Epoch III",
+    headline: "The Global Evolution",
+    shortDescription: "Today, Vada Pav has transcended its humble train-station origins to become a globally recognized gourmet food and a symbol of culinary pride. The preparation has evolved from simple street-side frying to standardized, high-speed commercial kitchen operations using temperature-controlled LPG gas burners and refined sunflower or palm oils. While classic street carts still thrive, the modern era has introduced massive fast-food chains that flash-freeze the vadas for consistency. The presentation has shifted away from old newspapers to eco-friendly biodegradable boxes, and the flavor profile has exploded with fusion adaptations. It is now common to see the pav heavily toasted on a griddle with Amul butter and filled with everything from liquid cheese and Schezwan sauce to baked panko-crusted potato patties, completing its journey from a working-class snack to a versatile global delicacy.",
+    image: "/images/dishes/vada-pav-stage-3.webp",
+    generationRecipe: {
+      recipeName: "Modern Gourmet & Fusion Vada Pav",
+      historicalCookware: "Commercial deep fryer & flat butter griddle",
+      heatSource: "Precision temperature-controlled LPG burners",
+      ingredientsList: ["Potatoes", "Pav (Bread rolls)", "Gram flour (Besan)", "Garlic", "Green chillies"],
+      preparationMethod: "Standardized frying with flash-frozen consistency or artisanal street cart frying, pav griddled in Amul butter, served in biodegradable boxes with fusion chutneys.",
+      contemporaryDifference: "Transition from street newspaper wraps to standardized fast-food chains, biodegradable packaging, butter toasting, and global gourmet adaptations."
+    },
+    technologicalLeap: "Precision temperature-controlled frying, flash-freezing technology, and global culinary franchising.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 4,
+    eraTitle: "Serving & Plating",
+    yearRange: "Present Day",
+    centuryLabel: "Epoch IV",
+    headline: "The Definitive Mumbai Street Icon",
+    shortDescription: "Served hot in crisp ladi pav with fiery dry garlic-peanut chutney, fried green chillies, and tangy tamarind-mint dips.",
+    image: "/images/dishes/vada-pav-stage-4.webp",
+    generationRecipe: {
+      recipeName: "Plated Vada Pav",
+      historicalCookware: "Street cart plating board",
+      heatSource: "Immediate service",
+      ingredientsList: ["Potatoes", "Pav (Bread rolls)", "Gram flour (Besan)", "Garlic", "Green chillies"],
+      preparationMethod: "Served hot with salted fried green chillies and garlic chutney.",
+      contemporaryDifference: "Modern street presentation."
+    },
+    technologicalLeap: "Iconic Mumbai street presentation.",
+    documentedCitation: ""
+  }
+];
+
+export const PURAN_POLI_GENERATIONS: GenerationWaypoint[] = [
+  {
+    generationNumber: 1,
+    eraTitle: "The 1800s",
+    yearRange: "1800s",
+    centuryLabel: "Epoch I",
+    headline: "The Royal & Ritual Heritage",
+    shortDescription: "In the 19th century, Puran Poli was treated as a labor-intensive royal delicacy and a sacred festive offering, prepared exclusively during occasions like Holi and Gudi Padwa. Every single step of the preparation was a grueling test of patience and muscle. The chana dal (split chickpeas) and jaggery were boiled in heavy brass vessels (patelya) over slow-burning wood or cow-dung fires, filling the kitchen with dense smoke. Because there were no mechanical grinders, the hot lentils had to be painstakingly pressed through a heavy, hot wooden or stone sieve called a puran yantra, or manually mashed on a stone sil-batta to get a perfectly smooth, lump-free paste. The outer cover was made from maida (refined flour) or whole wheat flour, hand-kneaded for hours to develop high elasticity. It was rolled using a wooden rolling pin (latre) and roasted on a thick iron tawa (griddle) over an open hearth, continuously slathered with pure, aromatic homemade cow ghee. It was served hot on fresh banana leaves, primarily to deities and upper-class households.",
+    image: "/images/dishes/maharashtra-puran-poli.webp",
+    generationRecipe: {
+      recipeName: "19th Century Festive Offering",
+      historicalCookware: "Heavy brass patelya & stone sil-batta / wooden puran yantra",
+      heatSource: "Slow-burning wood or cow-dung fires",
+      ingredientsList: ["Gavacha Atta", "Harbhara Dal", "Kala Gur", "Sajuk Tup", "Velchi & Jaiphal"],
+      preparationMethod: "Chana dal and jaggery boiled in heavy brass patelya, painstakingly hand-sieved through wooden or stone puran yantras, enveloped in hand-kneaded dough, roasted on thick iron tawas over open hearths with homemade cow ghee.",
+      contemporaryDifference: "Laborious multi-hour manual stone-mashing without mechanical grinders, wood-smoke hearth cooking, reserved for sacred festive rituals."
+    },
+    technologicalLeap: "Mastery of hand-kneaded dough elasticity and manual puran yantra filtering.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 2,
+    eraTitle: "The Mid-1900s",
+    yearRange: "Mid-1900s",
+    centuryLabel: "Epoch II",
+    headline: "The Domestic Tradition",
+    shortDescription: "By the mid-20th century, Puran Poli transitioned into a cherished domestic tradition, becoming the ultimate benchmark of a homemaker's culinary skill in Maharashtrian, Gujarati, and South Indian homes. As industrialization brought portable kerosene stoves and early gas burners into kitchens, managing the cooking temperature became significantly easier. While the recipe remained fiercely traditional, the introduction of the hand-cranked, metal puran yantra (a food mill attachment) revolutionized the process, cutting down the grueling hours spent mashing the dal by hand. The ingredients became more standardized with the mass availability of commercial jaggery, refined oils, and packaged flour. In this era, making Puran Poli remained a communal affair; women from joint families or neighborhoods would gather together, one rolling the dough, another stuffing the puran, and a third roasting them on the griddle. It was a time of pure domestic mastery, served to guests on stainless steel plates during family gatherings.",
+    image: "/images/dishes/maharashtra-puran-poli.webp",
+    generationRecipe: {
+      recipeName: "Mid-20th Century Domestic Benchmark",
+      historicalCookware: "Hand-cranked metal puran yantra & heavy griddle",
+      heatSource: "Portable kerosene stoves & early domestic gas burners",
+      ingredientsList: ["Maida", "Chana Dal", "Pila Gul", "Vanaspati", "Velchi Pood"],
+      preparationMethod: "Dal boiled and passed through mechanical hand-cranked metal puran yantras, communal rolling and stuffing by neighborhood women, griddled on controlled gas flames, served on stainless steel plates.",
+      contemporaryDifference: "Hand-cranked metal puran yantra reducing manual labor; transition to domestic kerosene and gas stoves."
+    },
+    technologicalLeap: "Introduction of hand-cranked metal puran yantra and controlled domestic gas flames.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 3,
+    eraTitle: "The Present Day",
+    yearRange: "2020s–2026",
+    centuryLabel: "Epoch III",
+    headline: "The Commercial & Convenient Era",
+    shortDescription: "Today, Puran Poli has broken out of the traditional kitchen to become a highly accessible, year-round commercial product, balancing heritage with modern convenience. In the busy lifestyle of the 2020s, the time-consuming process has been drastically shortened. The dal is rapidly cooked in electric pressure cookers and pulverized to a flawless consistency inside high-speed food processors or mixer-grinders in seconds. Modern health-conscious variations have also emerged, swapping out refined flour entirely for organic whole wheat or multi-grain flour, and replacing traditional jaggery with low-calorie sweeteners or dates. For those who lack the time to make it from scratch, the present era offers instant solutions: ready-to-eat Puran Polis are sold at local sweet shops, vacuum-packed versions are available in supermarkets, and frozen variants are exported globally to the diaspora. Despite being prepared on modern induction cooktops and non-stick pans, it remains the soul of festive dining.",
+    image: "/images/dishes/maharashtra-puran-poli.webp",
+    generationRecipe: {
+      recipeName: "Modern Commercial & Convenient Formulation",
+      historicalCookware: "Electric pressure cooker, high-speed food processor & non-stick pan",
+      heatSource: "Induction cooktops & precision LPG burners",
+      ingredientsList: ["Sharbati Atta", "Packaged Chana Dal", "Organic Jaggery Powder", "Branded Cow Ghee", "Spice Extracts"],
+      preparationMethod: "Dal pressure-cooked and pulverized in high-speed mixer-grinders, rolled with organic whole-wheat or multi-grain flour, roasted on non-stick pans or packaged into vacuum-sealed commercial packs.",
+      contemporaryDifference: "Electric pressure cooking, mixer-grinder pulverization, vacuum-sealed packaging, and global export."
+    },
+    technologicalLeap: "High-speed mechanical pulverization, vacuum packaging, and instant flash-freezing.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 4,
+    eraTitle: "Serving & Plating",
+    yearRange: "Present Day",
+    centuryLabel: "Epoch IV",
+    headline: "The Soul of Festive Dining",
+    shortDescription: "Served hot, generously drizzled with melted pure desi cow ghee, paired with katachi amti (spicy dal broth) or cold milk.",
+    image: "/images/dishes/maharashtra-puran-poli.webp",
+    generationRecipe: {
+      recipeName: "Plated Puran Poli with Ghee",
+      historicalCookware: "Festive thali platter",
+      heatSource: "Immediate service",
+      ingredientsList: ["Sharbati Atta", "Packaged Chana Dal", "Organic Jaggery Powder", "Branded Cow Ghee", "Spice Extracts"],
+      preparationMethod: "Served hot with a pool of pure cow ghee.",
+      contemporaryDifference: "Traditional festival plating."
+    },
+    technologicalLeap: "Festive plating aesthetics.",
+    documentedCitation: ""
+  }
+];
+
+export const MODAK_GENERATIONS: GenerationWaypoint[] = [
+  {
+    generationNumber: 1,
+    eraTitle: "The 1800s",
+    yearRange: "1800s",
+    centuryLabel: "Epoch I",
+    headline: "The Sacred Harvest Ritual",
+    shortDescription: "In the 19th century, Ukadiche Modak was purely a seasonal, ritualistic creation tied to the local autumn harvest. Crafted primarily during the Ganesh Chaturthi festival, it celebrated the freshly harvested rice crop and the abundance of local coconut groves. The preparation was deeply spiritual and physically demanding. The rice dough (peeth) was made by hand-pounding raw, indigenous fragrant rice variants in a heavy stone mortar and pestle (ukhal-musal) to get a fine flour, which was then steamed in heavy copper vessels (hunda) over slow charcoal fires to make it pliable. The filling utilized fresh, juicy coconut scraped on a traditional spiked iron blade stool (advi) and dark, unrefined winter jaggery. Expert women hand-shaped the outer shell into perfect, intricate petals without any mechanical assistance. The final dumplings were steamed on a bed of fresh, fragrant turmeric leaves, which infused the modaks with an irreplaceable herbal aroma and a faint golden tint.",
+    image: "/images/dishes/vada-pav-stage-1.webp",
+    generationRecipe: {
+      recipeName: "19th Century Sacred Harvest Offering",
+      historicalCookware: "Heavy stone mortar (ukhal-musal), copper hunda & iron advi",
+      heatSource: "Slow charcoal hearth fires",
+      ingredientsList: ["Tandalacha Peeth", "Ola Naral", "Kala Gur", "Sajuk Tup", "Haladichi Paane"],
+      preparationMethod: "Hand-pounded fragrant rice flour steamed into ukad dough, coconut grated on spiked iron advi blades, hand-pleated into flower petals, steamed over aromatic turmeric leaves.",
+      contemporaryDifference: "Laborious hand-pounding of indigenous rice in stone mortars, hand-folded pleats without molds, steamed on wild turmeric leaves."
+    },
+    technologicalLeap: "Mastery of gelatinized ukad dough steaming and intricate manual hand-pleating.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 2,
+    eraTitle: "The Mid-1900s",
+    yearRange: "Mid-1900s",
+    centuryLabel: "Epoch II",
+    headline: "The Domestic Artform",
+    shortDescription: "By the mid-20th century, Ukadiche Modak became the ultimate test of domestic artistry in Maharashtrian households, standardizing into a cherished family tradition. The introduction of local commercial flour mills (girnis) eliminated the arduous task of hand-pounding rice at home, making fine rice flour easily accessible. Kerosene stoves and early LPG gas burners replaced smoky wood fires, giving homemakers far better control over the delicate steaming process. While the recipe remained fiercely loyal to tradition, the tools began to shift. The filling now used block jaggery sold in local markets and standard factory-made cardamom powder. Making modaks remained a highly communal activity within joint families, where generations sat together to master the difficult art of hand-folding the dough pleats. The traditional turmeric leaves were often substituted with clean banana leaves or thin muslin cloths placed inside basic heavy-bottomed metal steamers.",
+    image: "/images/dishes/vada-pav-stage-2.webp",
+    generationRecipe: {
+      recipeName: "Mid-20th Century Domestic Benchmark",
+      historicalCookware: "Metal steamer pot, rolling pin & muslin cloth",
+      heatSource: "Kerosene stoves & early domestic LPG gas burners",
+      ingredientsList: ["Girni Millet Tandalache Peeth", "Scraped Coconut Block", "Pila Gul", "Commercial Ghee", "Velchi Pood"],
+      preparationMethod: "Girni-milled rice flour steamed into dough, filled with market block jaggery and coconut, pleated communally by joint family members, steamed on banana leaves or muslin cloth.",
+      contemporaryDifference: "Shift from hand stone-pounding to commercial girni milling; replacement of turmeric leaves with muslin or banana leaves."
+    },
+    technologicalLeap: "Access to electric/mechanical grain milling (girnis) and controlled domestic gas steaming.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 3,
+    eraTitle: "The Present Day",
+    yearRange: "2020s–2026",
+    centuryLabel: "Epoch III",
+    headline: "The High-Tech Delicacy",
+    shortDescription: "Today, Ukadiche Modak has transitioned into a highly commercialized, year-round gourmet delicacy that balances modern convenience with heritage flavors. The time-consuming process has been heavily automated. The rice dough is quickly steamed using high-pressure kitchen steamers or modern induction cooktops, and high-speed mixer-grinders blitz the coconut and jaggery filling in seconds. For those who find the intricate hand-pleating too difficult, plastic, brass, and silicone modak molds have become standard household tools to achieve perfect shapes instantly. Health-conscious updates feature organic red rice or brown rice flour, alongside sugar-free alternatives like dates or stevia. Furthermore, the present era has turned this festive homemade item into a booming commercial venture; during festival seasons, massive sweet chains use automated machinery to mass-produce thousands of modaks, while vacuum-packing and flash-freezing technology allow these delicate steamed sweets to be exported globally to the Indian diaspora.",
+    image: "/images/dishes/vada-pav-stage-3.webp",
+    generationRecipe: {
+      recipeName: "Modern Commercial & Automated Formulation",
+      historicalCookware: "High-pressure kitchen steamer, mixer-grinder & precision molds",
+      heatSource: "Induction cooktops & precision LPG burners",
+      ingredientsList: ["Organic Rice Flour", "Fresh Grated Coconut", "Organic Jaggery Powder", "Branded Cow Ghee", "Cardamom & Nutmeg Extracts"],
+      preparationMethod: "Dough prepared with precision electric steamers, filling pulverized in high-speed mixer-grinders, shaped with silicone or brass molds, steamed with induction precision or flash-frozen for global export.",
+      contemporaryDifference: "Use of silicone/brass molds, mixer-grinders, electric steamers, vacuum packaging, and year-round commercial availability."
+    },
+    technologicalLeap: "Precision induction steaming, mold shaping, and commercial flash-freeze preservation.",
+    documentedCitation: ""
+  },
+  {
+    generationNumber: 4,
+    eraTitle: "Serving & Plating",
+    yearRange: "Present Day",
+    centuryLabel: "Epoch IV",
+    headline: "Sacred Festive Offering",
+    shortDescription: "Served piping hot, crowned with a generous spoonful of warm fragrant cow ghee drizzled through the central peak.",
+    image: "/images/dishes/vada-pav-stage-4.webp",
+    generationRecipe: {
+      recipeName: "Sacred Naivedya Plating",
+      historicalCookware: "Brass puja thali",
+      heatSource: "Immediate service",
+      ingredientsList: ["Organic Rice Flour", "Fresh Grated Coconut", "Organic Jaggery Powder", "Branded Cow Ghee", "Cardamom & Nutmeg Extracts"],
+      preparationMethod: "Served hot with a pool of warm pure cow ghee.",
+      contemporaryDifference: "Contemporary living heritage."
+    },
+    technologicalLeap: "Sacred Naivedya aesthetics.",
+    documentedCitation: ""
+  }
+];
+
 function legacyGenerationsForDish(dishId: string, dish: Dish): GenerationWaypoint[] {
   switch (dishId) {
+    case "vada-pav":
+      return VADA_PAV_GENERATIONS;
+    case "puran-poli":
+      return PURAN_POLI_GENERATIONS;
+    case "ukadiche-modak":
+      return MODAK_GENERATIONS;
     case "masala-dosa":
       return DOSA_GENERATIONS;
     case "hyderabadi-biryani":

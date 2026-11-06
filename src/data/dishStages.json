@@ -10681,5 +10681,302 @@
         }
       ]
     }
+  },
+  "vada-pav": {
+    "dishId": "vada-pav",
+    "dishName": "Vada Pav",
+    "state": "Maharashtra",
+    "classification": "State",
+    "confidence": "regional-tradition",
+    "sources": [
+      "regional-food-writing",
+      "oral-tradition"
+    ],
+    "stageCount": 4,
+    "stages": [
+      {
+        "number": 1,
+        "key": "origin",
+        "numeral": "I",
+        "eyebrow": "Stage I",
+        "title": "The 1800s",
+        "photoLabel": "1800s Traditional Guide",
+        "era": "The 1800s",
+        "headline": "The Forbidden Blueprint",
+        "narrative": "In the 19th century, Vada Pav did not exist because its two core components belonged to entirely different worlds. Potatoes had only recently been popularized by the British, and the Portuguese pav (bread) was largely shunned by mainstream society due to religious taboos surrounding European baking practices and the use of wild palm toddy for yeast fermentation. Had a prototype been forced together in a wood-fired kitchen, it would have tasted drastically different. The bread would have been dense and sour, the potato filling would have been roughly hand-mashed, and the frying would have taken place over smoky wood fires using heavy iron pots filled with cold-pressed groundnut oil. It was a time before the street food culture of Mumbai was born, meaning these ingredients were consumed separately and strictly within private domestic or colonial settings.",
+        "details": [
+          "Potatoes had only recently been popularized by the British.",
+          "Portuguese pav was shunned due to European baking and toddy fermentation taboos.",
+          "Fried over smoky wood fires in heavy iron pots with cold-pressed groundnut oil."
+        ],
+        "evidenceNote": "Historical documentation confirms New World potatoes and European bakery pav were separate domestic novelties prior to 20th-century street commercialization.",
+        "sources": [
+          "regional-food-writing",
+          "oral-tradition"
+        ],
+        "confidence": "regional-tradition"
+      },
+      {
+        "number": 2,
+        "key": "ingredients",
+        "numeral": "II",
+        "eyebrow": "Stage II",
+        "title": "The Mid-1900s",
+        "photoLabel": "1966 Dadar Station Era",
+        "era": "The Mid-1900s",
+        "headline": "The Birth of an Icon (1966)",
+        "narrative": "The 1960s changed everything when Ashok Vaidya combined the potato dumpling and the bread roll to create a cheap, rapid meal for Mumbai's booming working class. Stationed outside the Dadar railway station in 1966, Vaidya realized that mill workers rushing to their shifts needed something hot, filling, and completely portable. By splitting a now-socially-accepted commercial yeast pav, smearing it with fiery chutneys, and stuffing it with a fresh batata vada, the legendary street food was officially born. Preparing it in this era relied on portable kerosene stoves and mass-produced vegetable oils. The chutneys—especially the signature dry red garlic powder—were hand-ground daily on stone slabs, and the final product was handed over wrapped in sheets of old, ink-stained vernacular newspaper, instantly becoming the fuel of the city's political and industrial labor movements.",
+        "details": [
+          "Ashok Vaidya invented Vada Pav outside Dadar station in 1966 for mill workers.",
+          "Portable kerosene stoves and stone-ground dry red garlic chutney.",
+          "Handed over wrapped in ink-stained vernacular newspapers."
+        ],
+        "evidenceNote": "Documented in Mumbai municipal, labor and food history records.",
+        "sources": [
+          "regional-food-writing",
+          "oral-tradition"
+        ],
+        "confidence": "regional-tradition"
+      },
+      {
+        "number": 3,
+        "key": "method",
+        "numeral": "III",
+        "eyebrow": "Stage III",
+        "title": "The Present Day",
+        "photoLabel": "Contemporary & Global Evolution",
+        "era": "The Present Day (2020s–2026)",
+        "headline": "The Global Evolution",
+        "narrative": "Today, Vada Pav has transcended its humble train-station origins to become a globally recognized gourmet food and a symbol of culinary pride. The preparation has evolved from simple street-side frying to standardized, high-speed commercial kitchen operations using temperature-controlled LPG gas burners and refined sunflower or palm oils. While classic street carts still thrive, the modern era has introduced massive fast-food chains that flash-freeze the vadas for consistency. The presentation has shifted away from old newspapers to eco-friendly biodegradable boxes, and the flavor profile has exploded with fusion adaptations. It is now common to see the pav heavily toasted on a griddle with Amul butter and filled with everything from liquid cheese and Schezwan sauce to baked panko-crusted potato patties, completing its journey from a working-class snack to a versatile global delicacy.",
+        "details": [
+          "Temperature-controlled LPG gas burners and flash-freezing consistency.",
+          "Eco-friendly biodegradable packaging and Amul butter griddling.",
+          "Global recognition with gourmet fusion adaptations."
+        ],
+        "evidenceNote": "Contemporary global culinary recognition and food franchising documentation.",
+        "sources": [
+          "regional-food-writing"
+        ],
+        "confidence": "documented"
+      },
+      {
+        "number": 4,
+        "key": "plated",
+        "numeral": "IV",
+        "eyebrow": "Stage IV",
+        "title": "Serving & Plating",
+        "photoLabel": "Plated Vada Pav",
+        "era": "Modern Living Icon",
+        "headline": "The Definitive Mumbai Street Icon",
+        "narrative": "Served hot in crisp ladi pav with fiery dry garlic-peanut chutney, fried green chillies, and tangy tamarind-mint dips.",
+        "details": [
+          "Served with salted fried green chillies.",
+          "Accompanied by dry red garlic chutney."
+        ],
+        "evidenceNote": "Contemporary culinary standard.",
+        "sources": [
+          "regional-food-writing"
+        ],
+        "confidence": "documented"
+      }
+    ]
+  },
+  "puran-poli": {
+    "dishId": "puran-poli",
+    "dishName": "Puran Poli",
+    "state": "Maharashtra",
+    "classification": "State",
+    "confidence": "regional-tradition",
+    "sources": [
+      "regional-food-writing",
+      "oral-tradition"
+    ],
+    "stageCount": 4,
+    "stages": [
+      {
+        "number": 1,
+        "key": "origin",
+        "numeral": "I",
+        "eyebrow": "Stage I",
+        "title": "The 1800s",
+        "photoLabel": "Royal & Ritual Heritage",
+        "era": "The 1800s",
+        "headline": "The Royal & Ritual Heritage",
+        "narrative": "In the 19th century, Puran Poli was treated as a labor-intensive royal delicacy and a sacred festive offering, prepared exclusively during occasions like Holi and Gudi Padwa. Every single step of the preparation was a grueling test of patience and muscle. The chana dal (split chickpeas) and jaggery were boiled in heavy brass vessels (patelya) over slow-burning wood or cow-dung fires, filling the kitchen with dense smoke. Because there were no mechanical grinders, the hot lentils had to be painstakingly pressed through a heavy, hot wooden or stone sieve called a puran yantra, or manually mashed on a stone sil-batta to get a perfectly smooth, lump-free paste. The outer cover was made from maida (refined flour) or whole wheat flour, hand-kneaded for hours to develop high elasticity. It was rolled using a wooden rolling pin (latre) and roasted on a thick iron tawa (griddle) over an open hearth, continuously slathered with pure, aromatic homemade cow ghee. It was served hot on fresh banana leaves, primarily to deities and upper-class households.",
+        "details": [
+          "Dal and jaggery boiled in heavy brass patelya over slow wood or cow-dung fires.",
+          "Laborious manual pressing through wooden/stone puran yantras or stone sil-battas.",
+          "Roasted on thick iron tawas over open hearths with homemade cow ghee."
+        ],
+        "evidenceNote": "Historical documentation of 19th-century royal Peshwa and festive Maharashtrian culinary rituals.",
+        "sources": [
+          "regional-food-writing",
+          "oral-tradition"
+        ],
+        "confidence": "regional-tradition"
+      },
+      {
+        "number": 2,
+        "key": "ingredients",
+        "numeral": "II",
+        "eyebrow": "Stage II",
+        "title": "The Mid-1900s",
+        "photoLabel": "Domestic Tradition",
+        "era": "The Mid-1900s",
+        "headline": "The Domestic Tradition",
+        "narrative": "By the mid-20th century, Puran Poli transitioned into a cherished domestic tradition, becoming the ultimate benchmark of a homemaker's culinary skill in Maharashtrian, Gujarati, and South Indian homes. As industrialization brought portable kerosene stoves and early gas burners into kitchens, managing the cooking temperature became significantly easier. While the recipe remained fiercely traditional, the introduction of the hand-cranked, metal puran yantra (a food mill attachment) revolutionized the process, cutting down the grueling hours spent mashing the dal by hand. The ingredients became more standardized with the mass availability of commercial jaggery, refined oils, and packaged flour. In this era, making Puran Poli remained a communal affair; women from joint families or neighborhoods would gather together, one rolling the dough, another stuffing the puran, and a third roasting them on the griddle. It was a time of pure domestic mastery, served to guests on stainless steel plates during family gatherings.",
+        "details": [
+          "Hand-cranked metal puran yantra food mill attachments reducing manual labor.",
+          "Communal preparation by joint family women.",
+          "Cooked over portable kerosene and early domestic gas stoves."
+        ],
+        "evidenceNote": "Documented domestic culinary history across 20th-century Maharashtra.",
+        "sources": [
+          "regional-food-writing",
+          "oral-tradition"
+        ],
+        "confidence": "regional-tradition"
+      },
+      {
+        "number": 3,
+        "key": "method",
+        "numeral": "III",
+        "eyebrow": "Stage III",
+        "title": "The Present Day",
+        "photoLabel": "Commercial & Convenient Era",
+        "era": "The Present Day (2020s–2026)",
+        "headline": "The Commercial & Convenient Era",
+        "narrative": "Today, Puran Poli has broken out of the traditional kitchen to become a highly accessible, year-round commercial product, balancing heritage with modern convenience. In the busy lifestyle of the 2020s, the time-consuming process has been drastically shortened. The dal is rapidly cooked in electric pressure cookers and pulverized to a flawless consistency inside high-speed food processors or mixer-grinders in seconds. Modern health-conscious variations have also emerged, swapping out refined flour entirely for organic whole wheat or multi-grain flour, and replacing traditional jaggery with low-calorie sweeteners or dates. For those who lack the time to make it from scratch, the present era offers instant solutions: ready-to-eat Puran Polis are sold at local sweet shops, vacuum-packed versions are available in supermarkets, and frozen variants are exported globally to the diaspora. Despite being prepared on modern induction cooktops and non-stick pans, it remains the soul of festive dining.",
+        "details": [
+          "Electric pressure cookers and high-speed food processors pulverize dal in seconds.",
+          "Vacuum-packed and flash-frozen versions exported globally to the diaspora.",
+          "Induction cooktops, non-stick pans, and organic grain variations."
+        ],
+        "evidenceNote": "Contemporary consumer packaged goods and gastronomy records.",
+        "sources": [
+          "regional-food-writing"
+        ],
+        "confidence": "documented"
+      },
+      {
+        "number": 4,
+        "key": "plated",
+        "numeral": "IV",
+        "eyebrow": "Stage IV",
+        "title": "Serving & Plating",
+        "photoLabel": "Plated Puran Poli with Ghee",
+        "era": "Modern Living Icon",
+        "headline": "The Soul of Festive Dining",
+        "narrative": "Served hot, generously drizzled with melted pure desi cow ghee, paired with katachi amti (spicy dal broth) or cold milk.",
+        "details": [
+          "Served with pure desi ghee.",
+          "Paired with spicy katachi amti."
+        ],
+        "evidenceNote": "Contemporary festival culinary practice.",
+        "sources": [
+          "regional-food-writing"
+        ],
+        "confidence": "documented"
+      }
+    ]
+  },
+  "ukadiche-modak": {
+    "dishId": "ukadiche-modak",
+    "dishName": "Ukadiche Modak",
+    "state": "Maharashtra",
+    "classification": "State",
+    "confidence": "regional-tradition",
+    "sources": [
+      "regional-food-writing",
+      "oral-tradition"
+    ],
+    "stageCount": 4,
+    "stages": [
+      {
+        "number": 1,
+        "key": "origin",
+        "numeral": "I",
+        "eyebrow": "Stage I",
+        "title": "The 1800s",
+        "photoLabel": "Sacred Harvest Ritual",
+        "era": "The 1800s",
+        "headline": "The Sacred Harvest Ritual",
+        "narrative": "In the 19th century, Ukadiche Modak was purely a seasonal, ritualistic creation tied to the local autumn harvest. Crafted primarily during the Ganesh Chaturthi festival, it celebrated the freshly harvested rice crop and the abundance of local coconut groves. The preparation was deeply spiritual and physically demanding. The rice dough (peeth) was made by hand-pounding raw, indigenous fragrant rice variants in a heavy stone mortar and pestle (ukhal-musal) to get a fine flour, which was then steamed in heavy copper vessels (hunda) over slow charcoal fires to make it pliable. The filling utilized fresh, juicy coconut scraped on a traditional spiked iron blade stool (advi) and dark, unrefined winter jaggery. Expert women hand-shaped the outer shell into perfect, intricate petals without any mechanical assistance. The final dumplings were steamed on a bed of fresh, fragrant turmeric leaves, which infused the modaks with an irreplaceable herbal aroma and a faint golden tint.",
+        "details": [
+          "Hand-pounded indigenous fragrant rice flour in stone ukhal-musal.",
+          "Coconut grated on spiked iron blade advi stools with dark winter jaggery.",
+          "Hand-shaped intricate petals steamed on fresh fragrant turmeric leaves."
+        ],
+        "evidenceNote": "Historical documentation of 19th-century Ganesh Chaturthi harvest rituals in Maharashtra.",
+        "sources": [
+          "regional-food-writing",
+          "oral-tradition"
+        ],
+        "confidence": "regional-tradition"
+      },
+      {
+        "number": 2,
+        "key": "ingredients",
+        "numeral": "II",
+        "eyebrow": "Stage II",
+        "title": "The Mid-1900s",
+        "photoLabel": "Domestic Artform",
+        "era": "The Mid-1900s",
+        "headline": "The Domestic Artform",
+        "narrative": "By the mid-20th century, Ukadiche Modak became the ultimate test of domestic artistry in Maharashtrian households, standardizing into a cherished family tradition. The introduction of local commercial flour mills (girnis) eliminated the arduous task of hand-pounding rice at home, making fine rice flour easily accessible. Kerosene stoves and early LPG gas burners replaced smoky wood fires, giving homemakers far better control over the delicate steaming process. While the recipe remained fiercely loyal to tradition, the tools began to shift. The filling now used block jaggery sold in local markets and standard factory-made cardamom powder. Making modaks remained a highly communal activity within joint families, where generations sat together to master the difficult art of hand-folding the dough pleats. The traditional turmeric leaves were often substituted with clean banana leaves or thin muslin cloths placed inside basic heavy-bottomed metal steamers.",
+        "details": [
+          "Commercial flour mills (girnis) making fine rice flour accessible.",
+          "Communal family pleating sessions in joint households.",
+          "Steamed on banana leaves or muslin cloth over domestic gas burners."
+        ],
+        "evidenceNote": "Documented domestic culinary history of 20th-century festival cookery.",
+        "sources": [
+          "regional-food-writing",
+          "oral-tradition"
+        ],
+        "confidence": "regional-tradition"
+      },
+      {
+        "number": 3,
+        "key": "method",
+        "numeral": "III",
+        "eyebrow": "Stage III",
+        "title": "The Present Day",
+        "photoLabel": "High-Tech Delicacy",
+        "era": "The Present Day (2020s–2026)",
+        "headline": "The High-Tech Delicacy",
+        "narrative": "Today, Ukadiche Modak has transitioned into a highly commercialized, year-round gourmet delicacy that balances modern convenience with heritage flavors. The time-consuming process has been heavily automated. The rice dough is quickly steamed using high-pressure kitchen steamers or modern induction cooktops, and high-speed mixer-grinders blitz the coconut and jaggery filling in seconds. For those who find the intricate hand-pleating too difficult, plastic, brass, and silicone modak molds have become standard household tools to achieve perfect shapes instantly. Health-conscious updates feature organic red rice or brown rice flour, alongside sugar-free alternatives like dates or stevia. Furthermore, the present era has turned this festive homemade item into a booming commercial venture; during festival seasons, massive sweet chains use automated machinery to mass-produce thousands of modaks, while vacuum-packing and flash-freezing technology allow these delicate steamed sweets to be exported globally to the Indian diaspora.",
+        "details": [
+          "Precision electric kitchen steamers and induction cooktops.",
+          "Standardized plastic, brass, and silicone modak shaping molds.",
+          "Commercial automated machinery, vacuum packing, and flash-frozen global exports."
+        ],
+        "evidenceNote": "Modern festival commerce and packaged sweets export records.",
+        "sources": [
+          "regional-food-writing"
+        ],
+        "confidence": "documented"
+      },
+      {
+        "number": 4,
+        "key": "plated",
+        "numeral": "IV",
+        "eyebrow": "Stage IV",
+        "title": "Serving & Plating",
+        "photoLabel": "Sacred Naivedya Plating",
+        "era": "Modern Living Icon",
+        "headline": "Sacred Festive Offering",
+        "narrative": "Served piping hot, crowned with a generous spoonful of warm fragrant cow ghee drizzled through the central peak.",
+        "details": [
+          "Served hot with a pool of warm pure cow ghee.",
+          "Offered as traditional Naivedya during Ganesh festival."
+        ],
+        "evidenceNote": "Contemporary living heritage.",
+        "sources": [
+          "regional-food-writing"
+        ],
+        "confidence": "documented"
+      }
+    ]
   }
 }
