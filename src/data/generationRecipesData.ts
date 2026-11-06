@@ -1053,7 +1053,7 @@ export const PURAN_POLI_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch I",
     headline: "The Royal & Ritual Heritage",
     shortDescription: "In the 19th century, Puran Poli was treated as a labor-intensive royal delicacy and a sacred festive offering, prepared exclusively during occasions like Holi and Gudi Padwa. Every single step of the preparation was a grueling test of patience and muscle. The chana dal (split chickpeas) and jaggery were boiled in heavy brass vessels (patelya) over slow-burning wood or cow-dung fires, filling the kitchen with dense smoke. Because there were no mechanical grinders, the hot lentils had to be painstakingly pressed through a heavy, hot wooden or stone sieve called a puran yantra, or manually mashed on a stone sil-batta to get a perfectly smooth, lump-free paste. The outer cover was made from maida (refined flour) or whole wheat flour, hand-kneaded for hours to develop high elasticity. It was rolled using a wooden rolling pin (latre) and roasted on a thick iron tawa (griddle) over an open hearth, continuously slathered with pure, aromatic homemade cow ghee. It was served hot on fresh banana leaves, primarily to deities and upper-class households.",
-    image: "/images/dishes/maharashtra-puran-poli.webp",
+    image: "/images/dishes/puran-poli-stage-1.webp",
     generationRecipe: {
       recipeName: "19th Century Festive Offering",
       historicalCookware: "Heavy brass patelya & stone sil-batta / wooden puran yantra",
@@ -1072,7 +1072,7 @@ export const PURAN_POLI_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch II",
     headline: "The Domestic Tradition",
     shortDescription: "By the mid-20th century, Puran Poli transitioned into a cherished domestic tradition, becoming the ultimate benchmark of a homemaker's culinary skill in Maharashtrian, Gujarati, and South Indian homes. As industrialization brought portable kerosene stoves and early gas burners into kitchens, managing the cooking temperature became significantly easier. While the recipe remained fiercely traditional, the introduction of the hand-cranked, metal puran yantra (a food mill attachment) revolutionized the process, cutting down the grueling hours spent mashing the dal by hand. The ingredients became more standardized with the mass availability of commercial jaggery, refined oils, and packaged flour. In this era, making Puran Poli remained a communal affair; women from joint families or neighborhoods would gather together, one rolling the dough, another stuffing the puran, and a third roasting them on the griddle. It was a time of pure domestic mastery, served to guests on stainless steel plates during family gatherings.",
-    image: "/images/dishes/maharashtra-puran-poli.webp",
+    image: "/images/dishes/puran-poli-stage-2.webp",
     generationRecipe: {
       recipeName: "Mid-20th Century Domestic Benchmark",
       historicalCookware: "Hand-cranked metal puran yantra & heavy griddle",
@@ -1091,7 +1091,7 @@ export const PURAN_POLI_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch III",
     headline: "The Commercial & Convenient Era",
     shortDescription: "Today, Puran Poli has broken out of the traditional kitchen to become a highly accessible, year-round commercial product, balancing heritage with modern convenience. In the busy lifestyle of the 2020s, the time-consuming process has been drastically shortened. The dal is rapidly cooked in electric pressure cookers and pulverized to a flawless consistency inside high-speed food processors or mixer-grinders in seconds. Modern health-conscious variations have also emerged, swapping out refined flour entirely for organic whole wheat or multi-grain flour, and replacing traditional jaggery with low-calorie sweeteners or dates. For those who lack the time to make it from scratch, the present era offers instant solutions: ready-to-eat Puran Polis are sold at local sweet shops, vacuum-packed versions are available in supermarkets, and frozen variants are exported globally to the diaspora. Despite being prepared on modern induction cooktops and non-stick pans, it remains the soul of festive dining.",
-    image: "/images/dishes/maharashtra-puran-poli.webp",
+    image: "/images/dishes/puran-poli-stage-3.webp",
     generationRecipe: {
       recipeName: "Modern Commercial & Convenient Formulation",
       historicalCookware: "Electric pressure cooker, high-speed food processor & non-stick pan",
@@ -1110,7 +1110,7 @@ export const PURAN_POLI_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch IV",
     headline: "The Soul of Festive Dining",
     shortDescription: "Served hot, generously drizzled with melted pure desi cow ghee, paired with katachi amti (spicy dal broth) or cold milk.",
-    image: "/images/dishes/maharashtra-puran-poli.webp",
+    image: "/images/dishes/puran-poli-stage-4.webp",
     generationRecipe: {
       recipeName: "Plated Puran Poli with Ghee",
       historicalCookware: "Festive thali platter",
@@ -1132,7 +1132,7 @@ export const MODAK_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch I",
     headline: "The Sacred Harvest Ritual",
     shortDescription: "In the 19th century, Ukadiche Modak was purely a seasonal, ritualistic creation tied to the local autumn harvest. Crafted primarily during the Ganesh Chaturthi festival, it celebrated the freshly harvested rice crop and the abundance of local coconut groves. The preparation was deeply spiritual and physically demanding. The rice dough (peeth) was made by hand-pounding raw, indigenous fragrant rice variants in a heavy stone mortar and pestle (ukhal-musal) to get a fine flour, which was then steamed in heavy copper vessels (hunda) over slow charcoal fires to make it pliable. The filling utilized fresh, juicy coconut scraped on a traditional spiked iron blade stool (advi) and dark, unrefined winter jaggery. Expert women hand-shaped the outer shell into perfect, intricate petals without any mechanical assistance. The final dumplings were steamed on a bed of fresh, fragrant turmeric leaves, which infused the modaks with an irreplaceable herbal aroma and a faint golden tint.",
-    image: "/images/dishes/vada-pav-stage-1.webp",
+    image: "/images/dishes/ukadiche-modak-stage-1.webp",
     generationRecipe: {
       recipeName: "19th Century Sacred Harvest Offering",
       historicalCookware: "Heavy stone mortar (ukhal-musal), copper hunda & iron advi",
@@ -1151,7 +1151,7 @@ export const MODAK_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch II",
     headline: "The Domestic Artform",
     shortDescription: "By the mid-20th century, Ukadiche Modak became the ultimate test of domestic artistry in Maharashtrian households, standardizing into a cherished family tradition. The introduction of local commercial flour mills (girnis) eliminated the arduous task of hand-pounding rice at home, making fine rice flour easily accessible. Kerosene stoves and early LPG gas burners replaced smoky wood fires, giving homemakers far better control over the delicate steaming process. While the recipe remained fiercely loyal to tradition, the tools began to shift. The filling now used block jaggery sold in local markets and standard factory-made cardamom powder. Making modaks remained a highly communal activity within joint families, where generations sat together to master the difficult art of hand-folding the dough pleats. The traditional turmeric leaves were often substituted with clean banana leaves or thin muslin cloths placed inside basic heavy-bottomed metal steamers.",
-    image: "/images/dishes/vada-pav-stage-2.webp",
+    image: "/images/dishes/ukadiche-modak-stage-2.webp",
     generationRecipe: {
       recipeName: "Mid-20th Century Domestic Benchmark",
       historicalCookware: "Metal steamer pot, rolling pin & muslin cloth",
@@ -1170,7 +1170,7 @@ export const MODAK_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch III",
     headline: "The High-Tech Delicacy",
     shortDescription: "Today, Ukadiche Modak has transitioned into a highly commercialized, year-round gourmet delicacy that balances modern convenience with heritage flavors. The time-consuming process has been heavily automated. The rice dough is quickly steamed using high-pressure kitchen steamers or modern induction cooktops, and high-speed mixer-grinders blitz the coconut and jaggery filling in seconds. For those who find the intricate hand-pleating too difficult, plastic, brass, and silicone modak molds have become standard household tools to achieve perfect shapes instantly. Health-conscious updates feature organic red rice or brown rice flour, alongside sugar-free alternatives like dates or stevia. Furthermore, the present era has turned this festive homemade item into a booming commercial venture; during festival seasons, massive sweet chains use automated machinery to mass-produce thousands of modaks, while vacuum-packing and flash-freezing technology allow these delicate steamed sweets to be exported globally to the Indian diaspora.",
-    image: "/images/dishes/vada-pav-stage-3.webp",
+    image: "/images/dishes/ukadiche-modak-stage-3.webp",
     generationRecipe: {
       recipeName: "Modern Commercial & Automated Formulation",
       historicalCookware: "High-pressure kitchen steamer, mixer-grinder & precision molds",
@@ -1189,7 +1189,7 @@ export const MODAK_GENERATIONS: GenerationWaypoint[] = [
     centuryLabel: "Epoch IV",
     headline: "Sacred Festive Offering",
     shortDescription: "Served piping hot, crowned with a generous spoonful of warm fragrant cow ghee drizzled through the central peak.",
-    image: "/images/dishes/vada-pav-stage-4.webp",
+    image: "/images/dishes/ukadiche-modak-stage-4.webp",
     generationRecipe: {
       recipeName: "Sacred Naivedya Plating",
       historicalCookware: "Brass puja thali",
