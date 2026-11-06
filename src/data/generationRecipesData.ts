@@ -1306,6 +1306,119 @@ export const MAKKI_ROTI_SARSON_SAAG_GENERATIONS: GenerationWaypoint[] = [
   }
 ];
 
+export const AMRITSARI_KULCHA_GENERATIONS: GenerationWaypoint[] = [
+  {
+    generationNumber: 1,
+    eraTitle: "The 1800s",
+    yearRange: "1800s",
+    centuryLabel: "Epoch I",
+    headline: "The Shahi Khansama Innovation",
+    shortDescription:
+      "In the 19th century, the Amritsari Kulcha was born out of the royal kitchens of the Sikh Empire and Punjab's princely states, created as a luxurious variation of the standard tandoori roti. Royal chefs (khansamas) experimented with the dough by incorporating large amounts of lard or hand-churned white butter into multiple folds, creating an early prototype of an indigenous puff pastry. Cooked inside deep, underground clay tandoors fired with slow-burning wood, the bread developed a deeply smoky flavor and an incredible flaky crunch. The stuffing was simple but premium, featuring seasonal potatoes or fresh chenna (paneer) hand-crushed with wild green chillies and whole coriander seeds. It was a decadent delicacy reserved for nobility and wealthy landlords, served dripping with melted ghee alongside rich, slow-simmered black lentils.",
+    image: "/images/dishes/amritsari-kulcha-stage-1.webp",
+    generationRecipe: {
+      recipeName: "Sikh Empire Royal Laminated Kulcha",
+      historicalCookware: "Deep underground clay tandoor & iron skewers",
+      heatSource: "Slow-burning wood fire hearth",
+      ingredientsList: [
+        "Local Maida",
+        "Ola Chenna",
+        "Ubalela Aloo",
+        "Hand-Churned Ghee",
+        "Whole Coriander Seeds"
+      ],
+      preparationMethod:
+        "Hand-folded multi-layered dough enriched with churned butter and ghee, stuffed with fresh chenna and boiled potatoes crushed with whole coriander and wild green chillies, baked inside an underground clay tandoor.",
+      contemporaryDifference:
+        "Royal princely delicacy folded like indigenous puff pastry, cooked in underground wood-fired tandoors for nobility.",
+    },
+    technologicalLeap: "Indigenous multi-layer fat lamination producing flaky, tandoor-baked layered flatbreads.",
+    documentedCitation: "",
+  },
+  {
+    generationNumber: 2,
+    eraTitle: "The Mid-1900s",
+    yearRange: "Mid-1900s",
+    centuryLabel: "Epoch II",
+    headline: "The Street Food of the Holy City",
+    shortDescription:
+      "By the mid-20th century, the Amritsari Kulcha transitioned into the ultimate community breakfast for the working class and pilgrims visiting the Golden Temple. Local bakers standardized the recipe by using commercial yeast or sour dough starters (khameer) to make the dough incredibly pliable, allowing them to laminate it with multiple layers of vegetable fat or commercial butter. Stationed in the narrow lanes of old Amritsar, vendors used massive, above-ground clay tandoors fueled by coal or wood to churn out hundreds of kulchas an hour. The bread became distinctly characterized by its multi-layered, shattered-glass texture, achieved by aggressively slapping the stuffed dough by hand before sticking it to the tandoor walls. It was served hot on old newspapers or tin plates, paired with spicy, tangy pindi chole (chickpeas) and a unique watery onion-tamarind chutney.",
+    image: "/images/dishes/amritsari-kulcha-stage-2.webp",
+    generationRecipe: {
+      recipeName: "Golden Temple Alleyway Community Kulcha",
+      historicalCookware: "Massive above-ground brick & clay tandoor",
+      heatSource: "Coal and wood embers",
+      ingredientsList: [
+        "Standard Maida",
+        "Market Potatoes",
+        "Dalda Vanaspati",
+        "Commercial Butter",
+        "Dry Pomegranate Seeds"
+      ],
+      preparationMethod:
+        "Pliable khameer-fermented dough laminated with vanaspati and butter, filled with spiced mashed potatoes and dry pomegranate seeds (anardana), slapped onto incandescent tandoor walls, and crushed with commercial butter.",
+      contemporaryDifference:
+        "Transitioned into a fast-paced community breakfast for pilgrims, paired with spicy pindi chole and tangy onion-tamarind chutney.",
+    },
+    technologicalLeap: "Khameer fermentation and high-speed above-ground clay tandoor baking for mass pilgrim feeding.",
+    documentedCitation: "",
+  },
+  {
+    generationNumber: 3,
+    eraTitle: "The Present Day",
+    yearRange: "2020s–2026",
+    centuryLabel: "Epoch III",
+    headline: "The Global Crunch Legend",
+    shortDescription:
+      "Today, the Amritsari Kulcha is a globally celebrated culinary masterpiece, fiercely protected by its geographical identity and sought after by food lovers worldwide. While high-tech commercial kitchens use temperature-controlled gas or electric tandoors to maintain consistency, the gold standard remains the charcoal-fired clay tandoor that delivers the signature charred, flaky crust. Modern preparation has been optimized: dough lamination is done precisely with premium pasteurized butter (like Amul) to create dozens of microscopic layers that shatter upon impact. The stuffing has expanded into gourmet territories, featuring combinations like spicy minced mushrooms, cheese, and seasoned cauliflower. For travelers and the global Punjabi diaspora, high-end food chains now offer flash-frozen, vacuum-packed kulchas that can be reheated in a home oven or air fryer, delivering the authentic crunch of Amritsar anywhere in the world.",
+    image: "/images/dishes/amritsari-kulcha-stage-3.webp",
+    generationRecipe: {
+      recipeName: "Precision Laminated Amritsari Masterpiece",
+      historicalCookware: "Precision clay tandoor, convection ovens & air fryers",
+      heatSource: "Charcoal embers or precision temperature gas tandoor",
+      ingredientsList: [
+        "Premium Unbleached Maida",
+        "Cold-Pressed Amul Butter",
+        "Organic Spice Stuffed Potatoes",
+        "Kasuri Methi",
+        "Anardana Powder"
+      ],
+      preparationMethod:
+        "Micro-laminated dough folded with Amul butter, packed with organic spiced potato-anardana filling, baked until blistering, and shattered by hand, or flash-frozen for global diaspora export.",
+      contemporaryDifference:
+        "Precision multi-layer micro-lamination, gourmet stuffing variations, and retort flash-freezing for oven or air-fryer finishing worldwide.",
+    },
+    technologicalLeap: "Precision fat micro-lamination, blast-freezing, and air-fryer regeneration technology.",
+    documentedCitation: "",
+  },
+  {
+    generationNumber: 4,
+    eraTitle: "Serving & Plating",
+    yearRange: "Present Day",
+    centuryLabel: "Epoch IV",
+    headline: "The Soul of Amritsari Breakfast",
+    shortDescription:
+      "Served piping hot, crushed by hand so the flaky layers shatter, crowned with melting butter and accompanied by dark pindi chole, pickled onions, and tamarind chutney.",
+    image: "/images/dishes/amritsari-kulcha-stage-4.webp",
+    generationRecipe: {
+      recipeName: "Iconic Amritsar Street Thali Service",
+      historicalCookware: "Stainless steel compartmentalized thali",
+      heatSource: "Immediate service",
+      ingredientsList: [
+        "Premium Unbleached Maida",
+        "Cold-Pressed Amul Butter",
+        "Organic Spice Stuffed Potatoes",
+        "Kasuri Methi",
+        "Anardana Powder"
+      ],
+      preparationMethod: "Hand-crushed with a thud to release steam and shatter layers, topped with white butter and served with chole.",
+      contemporaryDifference: "Cherished breakfast ritual preserved across generations.",
+    },
+    technologicalLeap: "Authentic shatter-crush plating aesthetic.",
+    documentedCitation: "",
+  },
+];
+
 function legacyGenerationsForDish(dishId: string, dish: Dish): GenerationWaypoint[] {
   switch (dishId) {
     case "vada-pav":
@@ -1316,6 +1429,8 @@ function legacyGenerationsForDish(dishId: string, dish: Dish): GenerationWaypoin
       return MODAK_GENERATIONS;
     case "makki-di-roti-sarson-saag":
       return MAKKI_ROTI_SARSON_SAAG_GENERATIONS;
+    case "amritsari-kulcha":
+      return AMRITSARI_KULCHA_GENERATIONS;
     case "masala-dosa":
       return DOSA_GENERATIONS;
     case "hyderabadi-biryani":

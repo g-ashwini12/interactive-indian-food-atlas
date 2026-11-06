@@ -741,6 +741,18 @@ const BASE_FOOD_DATA: Record<string, StateFood> = {
         era: "Post-Partition 1950s (Moti Mahal / Kundan Lal Gujral)",
         keyTechnique: "Clay Tandoor Roasting & Silky Tomato-Butter Emulsion",
       },
+      {
+        id: "amritsari-kulcha",
+        name: "Amritsari Kulcha",
+        alternateName: "Amritsari Aloo Kulcha",
+        state: "Punjab",
+        category: "grain-bread",
+        description: "A stuffed bread of refined wheat flour, layered with ghee and spiced potato or paneer, slapped into a tandoor wall until it blisters, then crushed with white butter and served with chole.",
+        ingredients: ["Local Maida", "Ola Chenna", "Ubalela Aloo", "Hand-Churned Ghee", "Whole Coriander Seeds"],
+        tasteProfile: "Crisp, Flaky & Ghee-Layered",
+        era: "19th Century Sikh Empire Royal Kitchens",
+        keyTechnique: "Tandoor-Charged Stuffed Kulcha Baking",
+      },
     ],
   },
 
