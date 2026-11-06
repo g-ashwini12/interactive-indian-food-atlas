@@ -736,7 +736,7 @@ const BASE_FOOD_DATA: Record<string, StateFood> = {
         state: "Punjab",
         category: "curry-stew",
         description: "Tandoor-charred succulent chicken pieces gently simmered in a velvety, silk-smooth gravy of strained ripe tomatoes, churned butter, fresh cream, and fragrant dried fenugreek leaves (kasuri methi).",
-        ingredients: ["Tandoori chicken", "Vine tomatoes", "White butter", "Fresh dairy cream", "Kasuri methi", "Kashmiri chilli"],
+        ingredients: ["Desi Murg", "Chakka Dahi", "Safed Makkhan", "Kacchi Mirch", "Nimbu Rassa"],
         tasteProfile: "Creamy, Mildly Spiced & Velvety",
         era: "Post-Partition 1950s (Moti Mahal / Kundan Lal Gujral)",
         keyTechnique: "Clay Tandoor Roasting & Silky Tomato-Butter Emulsion",

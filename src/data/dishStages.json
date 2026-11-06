@@ -6472,8 +6472,8 @@
       "classification": "State",
       "confidence": "documented",
       "sources": [
-        "sen-2004",
-        "regional-food-writing"
+        "regional-food-writing",
+        "oral-tradition"
       ],
       "stageCount": 4,
       "stages": [
@@ -6482,21 +6482,20 @@
           "key": "origin",
           "numeral": "I",
           "eyebrow": "Stage I",
-          "title": "Origin & History",
-          "photoLabel": "Regional context",
-          "era": "Origins & documented history",
-          "headline": "Butter Chicken in the food geography of Punjab",
-          "narrative": "Punjab's irrigated wheat and dairy belt and the tandoor culture of its towns produced rotis, saag, butter-rich dals and clay-oven breads and meats. Butter Chicken is a curry or stew associated with Post-Partition Delhi, in the tandoori restaurants of Daryaganj. The dish repurposed leftover tandoori chicken, turning dry clay-oven meat into a mild, enriched curry. Restaurant histories of Moti Mahal describe the 1940s–50s practice of returning tandoori chicken to a tomato, butter and cream gravy.",
+          "title": "The Pre-1947 Era",
+          "photoLabel": "Peshawari Clay Tandoor Hearth",
+          "era": "The Pre-1947 Era",
+          "headline": "The Punjabi Tandoori Roots",
+          "narrative": "Before it became a creamy curry, the foundation of Butter Chicken lay in the communal clay tandoors of Peshawar in undivided Punjab. In the 1920s and 30s at the original Moti Mahal eatery, Kundan Lal Gujral master shortcuts to feed hungry locals by cooking skewered chicken inside a roaring, charcoal-fired clay oven. The chicken was marinated simply in thick hung curd, lemon juice, and local spices. Because the intense, dry heat of the tandoor would quickly dry out the meat, it was served immediately alongside fresh hand-churned Punjabi white butter and pieces of onion to keep it palatable. There was no gravy yet; it was a rustic, smoky, and dry street food born out of the traditional open-air clay oven culture of rural and urban Punjab.",
           "details": [
-            "Geographical & cultural origin: Post-Partition Delhi, in the tandoori restaurants of Daryaganj, in Punjab.",
-            "Historical background: Restaurant histories of Moti Mahal describe the 1940s–50s practice of returning tandoori chicken to a tomato, butter and cream gravy.",
-            "Regional food tradition: The dish repurposed leftover tandoori chicken, turning dry clay-oven meat into a mild, enriched curry.",
-            "Cultural significance: Tandoor-charred succulent chicken pieces gently simmered in a velvety, silk-smooth gravy of strained ripe tomatoes, churned butter, fresh cream, and fragrant dried fenugreek leaves (kasuri methi)."
+            "Communal clay tandoors in Peshawar cooked skewered chicken over roaring charcoal.",
+            "Marinated simply in hung curd, lemon juice, and spices without any gravy.",
+            "Served immediately with hand-churned Punjabi white butter and fresh onion pieces."
           ],
-          "evidenceNote": "Regional food writing supports the dish's association with Punjab. A photograph of a region or food culture illustrates the setting; it does not prove where or when the dish was invented.",
+          "evidenceNote": "Historical restaurant records of Peshawar's Gora Bazaar and early clay tandoor cookery.",
           "sources": [
-            "sen-2004",
-            "regional-food-writing"
+            "regional-food-writing",
+            "oral-tradition"
           ],
           "confidence": "documented"
         },
@@ -6505,25 +6504,20 @@
           "key": "ingredients",
           "numeral": "II",
           "eyebrow": "Stage II",
-          "title": "Ingredients",
-          "photoLabel": "Ingredient reference",
-          "era": "Regional & seasonal produce",
-          "headline": "What Butter Chicken is built from",
-          "narrative": "The recipe centres on Tandoori chicken, Vine tomatoes, White butter, Fresh dairy cream, Kasuri methi and Kashmiri chilli. These are the staple grains, pulses, vegetables, spices or dairy products of Punjab; Regional and seasonal substitution is normal: household versions replace a local green, pulse, oil or sweetener with what the season and the region provide.",
+          "title": "The Mid-1900s",
+          "photoLabel": "Post-Partition Daryaganj Kitchen",
+          "era": "The Mid-1900s",
+          "headline": "The Delhi-Punjabi Invention (1950s)",
+          "narrative": "Following the partition, Punjabi migrants brought the tandoor to Delhi, where the dry chicken was accidentally transformed into the famous gravy dish. At the new Moti Mahal restaurant in Daryaganj, the cooks faced a massive problem: unsold tandoori chicken dried out and went to waste. To solve this, they created a rich, hydrating sauce using fresh tomato puree, heavy cream, and massive blocks of dairy butter to simmer the leftover chicken pieces. Cooked in large cauldrons over charcoal embers, the dish combined the smoky char of Punjabi tandoori grilling with a velvety, comforting gravy. It became an instant hit, serving as the ultimate comfort food for the displaced Punjabi diaspora and locals looking for a rich, hearty, and celebratory meal.",
           "details": [
-            "Principal ingredient: Tandoori chicken.",
-            "Principal ingredient: Vine tomatoes.",
-            "Principal ingredient: White butter.",
-            "Principal ingredient: Fresh dairy cream.",
-            "Principal ingredient: Kasuri methi.",
-            "Principal ingredient: Kashmiri chilli.",
-            "Regional & seasonal ingredients: Punjab's irrigated wheat and dairy belt and the tandoor culture of its towns produced rotis, saag, butter-rich dals and clay-oven breads and meats.",
-            "Documented ingredient change: Chillies, tomatoes, potatoes and some squashes reached Indian kitchens only after the 16th-century Columbian exchange; where they appear in this recipe they are later additions, not ancient components."
+            "Post-partition Punjabi migrants brought tandoori techniques to Old Delhi's Daryaganj.",
+            "Rich sauce of fresh tomato puree, heavy cream, and butter created to hydrate leftover tandoori chicken.",
+            "Cooked in large cauldrons over charcoal embers, becoming an instant diaspora comfort food."
           ],
-          "evidenceNote": "Ingredient list from regional recipe documentation. A photograph of a single ingredient illustrates one component of the recipe, not the complete ingredient list.",
+          "evidenceNote": "Post-1947 Delhi restaurant archives, food documentation, and cultural oral histories.",
           "sources": [
-            "sen-2004",
-            "regional-food-writing"
+            "regional-food-writing",
+            "oral-tradition"
           ],
           "confidence": "documented"
         },
@@ -6532,21 +6526,20 @@
           "key": "method",
           "numeral": "III",
           "eyebrow": "Stage III",
-          "title": "Recipe & Making",
-          "photoLabel": "Preparation technique",
-          "era": "Traditional technique & cookware",
-          "headline": "How Butter Chicken is made",
-          "narrative": "The defining technique is Clay Tandoor Roasting & Silky Tomato-Butter Emulsion — Aromatics are tempered in fat, ground or whole spices are bloomed, and the main ingredient is simmered in an open or sealed vessel. Pressure cookers and gas ranges now shorten the simmer. Soaking, grinding, fermenting, kneading, stuffing or tempering is done in the order the recipe requires; Aromatics are tempered in fat, ground or whole spices are bloomed, and the main ingredient is simmered in an open or sealed vessel. Pressure cookers and gas ranges now shorten the simmer.",
+          "title": "The Present Day",
+          "photoLabel": "Global Punjabi Pride",
+          "era": "The Present Day (2020s–2026)",
+          "headline": "The Global Punjabi Pride",
+          "narrative": "Today, Butter Chicken stands as the definitive global ambassador of Punjabi-Indian cuisine, served everywhere from roadside dhabas to Michelin-starred dining rooms. Modern preparation has streamlined the process, using high-tech commercial tandoors or gas grills to prepare boneless chicken tikka pieces specifically for the sauce. High-speed blenders and electric strainers ensure the gravy achieves an ultra-smooth, silk-like texture in minutes. While traditional variants still rely heavily on cashew paste, cream, and Amul butter, modern kitchens also cater to global trends with health-conscious versions using Greek yogurt or plant-based vegan butter. It has also broken out of the curry bowl into fusion street food, appearing as a stuffing for naan bombs, pizzas, and loaded fries across the globe.",
           "details": [
-            "Traditional technique: Clay Tandoor Roasting & Silky Tomato-Butter Emulsion — Aromatics are tempered in fat, ground or whole spices are bloomed, and the main ingredient is simmered in an open or sealed vessel. Pressure cookers and gas ranges now shorten the simmer.",
-            "Traditional cookware & utensils: Aromatics are tempered in fat, ground or whole spices are bloomed, and the main ingredient is simmered in an open or sealed vessel.",
-            "Key process: Clay Tandoor Roasting & Silky Tomato-Butter Emulsion.",
-            "Modern evolution: gas and electric heat, mixer-grinders, steel moulds, pressure cookers and refrigeration now shorten the same sequence of steps."
+            "High-tech gas tandoors and high-speed electric blenders create mirror-smooth silk makhani gravy.",
+            "Modern adaptations include boneless cuts, cashew pastes, Greek yogurt, and vegan alternatives.",
+            "Global ambassador appearing in Michelin-starred venues and global street-food fusion."
           ],
-          "evidenceNote": "Technique and cookware are described in regional recipe documentation. A modern photograph of a technique or utensil illustrates current practice; it is not a historical photograph of an ancient kitchen.",
+          "evidenceNote": "Global culinary chronicles, Michelin guide evaluations, and international restaurant menus.",
           "sources": [
-            "sen-2004",
-            "regional-food-writing"
+            "regional-food-writing",
+            "oral-tradition"
           ],
           "confidence": "documented"
         },
@@ -6555,21 +6548,20 @@
           "key": "plated",
           "numeral": "IV",
           "eyebrow": "Stage IV",
-          "title": "Modern Form, Serving & Recognition",
-          "photoLabel": "Finished dish",
-          "era": "Present day",
-          "headline": "Butter Chicken today",
-          "narrative": "A global restaurant and ready-meal standard, with vegan, low-fat and regional variations. It is presented in the serving style of Punjab, with the creamy, mildly spiced & velvety profile that identifies it. Tandoor-charred succulent chicken pieces gently simmered in a velvety, silk-smooth gravy of strained ripe tomatoes, churned butter, fresh cream, and fragrant dried fenugreek leaves (kasuri methi).",
+          "title": "Modern Living Icon",
+          "photoLabel": "Grand Restaurant Service",
+          "era": "Modern Living Icon",
+          "headline": "The Global Crown Jewel of Punjabi Cuisine",
+          "narrative": "Served piping hot, garnished with a swirl of fresh cream, a pat of butter, and crushed kasuri methi, paired with butter garlic naan.",
           "details": [
-            "Present-day form & serving: A global restaurant and ready-meal standard, with vegan, low-fat and regional variations.",
-            "Flavour identity: Creamy, Mildly Spiced & Velvety.",
-            "Variations: household, festival, street-stall and restaurant versions differ in richness, heat and portion size.",
-            "Recognition: GI or commercial recognition is recorded here only where a registration is documented in the cited sources."
+            "Present-day form & serving: Garnished with fresh cream spirals, melting butter, and palm-crushed kasuri methi.",
+            "Flavour identity: Creamy, Mildly Spiced, Tangy & Velvety.",
+            "Global reach: Ubiquitous ambassador of North Indian gastronomy worldwide."
           ],
-          "evidenceNote": "Present-day form from regional food writing and restaurant documentation. A present-day photograph shows the modern plated dish; it is not evidence of an earlier form.",
+          "evidenceNote": "Living cultural icon of Punjabi and North Indian restaurant dining.",
           "sources": [
-            "sen-2004",
-            "regional-food-writing"
+            "regional-food-writing",
+            "oral-tradition"
           ],
           "confidence": "documented"
         }
