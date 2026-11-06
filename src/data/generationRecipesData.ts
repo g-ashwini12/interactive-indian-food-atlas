@@ -979,7 +979,7 @@ const STAGE_SOURCE_EPOCH: Record<StageKey, number> = {
 };
 
 const STAGE_YEAR_RANGE: Record<StageKey, string> = {
-  origin: "Origins & documented references",
+  origin: "Origins & Cultural Roots",
   ingredients: "Regional & seasonal produce",
   method: "Traditional technique to modern kitchens",
   plated: "Present day",

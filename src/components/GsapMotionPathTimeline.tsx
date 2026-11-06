@@ -687,7 +687,7 @@ export const GsapMotionPathTimeline: React.FC<GsapMotionPathTimelineProps> = ({
                               : "text-emerald-400 bg-emerald-500/10 border-emerald-500/30"
                           }`}
                         >
-                          {allStageIngredients.length} Documented Ingredients
+                          {allStageIngredients.length} Ingredients
                         </span>
                       </div>
 
